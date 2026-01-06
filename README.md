@@ -1,5 +1,5 @@
 # ProGen-Visual-Coding
-# 🧬 ProGen Visual Coding | Cloud Backend 🧬
+# 🧬 ProGen Visual Coding® | Cloud Backend 🧬
 
 This repository serves as the **Content Delivery Network (CDN)** and **Version Control** for the ProGen Visual Coding Plugin. By hosting the block library here, the engine stays updated in real-time without requiring manual marketplace updates.
 
@@ -33,4 +33,3 @@ Critical reports are automatically generated in a "Receipt" format and transmitt
  
 # Created, Owned, Managed, And Updated By Ezz Studios.
 ## Ezz Studios Discord Link: https://discord.gg/RyTqGkUpyW
-### ®
