@@ -1,0 +1,22 @@
+{
+  "Categories": [
+    {
+      "Name": "Advanced Math",
+      "Color": [76, 151, 255],
+      "Blocks": [
+        {
+          "Name": "CFrame:Orthonormalize",
+          "Type": "Reporter",
+          "Inputs": ["CFrame"],
+          "Logic": "return input[1]:Orthonormalize()"
+        },
+        {
+          "Name": "Vector3:Cross",
+          "Type": "Reporter",
+          "Inputs": ["Vector3", "Vector3"],
+          "Logic": "return input[1]:Cross(input[2])"
+        }
+      ]
+    }
+  ]
+}
