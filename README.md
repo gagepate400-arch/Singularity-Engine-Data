@@ -31,5 +31,5 @@ Critical reports are automatically generated in a "Receipt" format and transmitt
 
 
  
-# Created, Owned, Managed, And Updated By Ezz Studios.
-## Ezz Studios Discord Link: https://discord.gg/RyTqGkUpyW
+# Created, Owned, Managed, And Updated By Ezz Studios®.
+## Ezz Studios® Discord Link: https://discord.gg/RyTqGkUpyW
