@@ -1,7 +1,7 @@
-# Singularity-Engine-Data
-# 🌌 Singularity Engine | Cloud Backend
+# ProGen-Visual-Coding
+# 🧬 ProGen Visual Coding | Cloud Backend 🧬
 
-This repository serves as the **Content Delivery Network (CDN)** and **Version Control** for the Singularity Visual Scripting Plugin. By hosting the block library and core logic here, the engine stays updated in real-time without requiring manual marketplace updates.
+This repository serves as the **Content Delivery Network (CDN)** and **Version Control** for the ProGen Visual Coding Plugin. By hosting the block library here, the engine stays updated in real-time without requiring manual marketplace updates.
 
 ## 🛠 Project Structure
 
@@ -28,3 +28,9 @@ Critical reports are automatically generated in a "Receipt" format and transmitt
 
 ---
 **Developed for the Roblox Marketplace.** *Singularity Engine: Scratch, but better by millions.*
+
+
+ 
+# Created, Owned, Managed, And Updated By Ezz Studios.
+## Ezz Studios Discord Link: https://discord.gg/RyTqGkUpyW
+### ®
