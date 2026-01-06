@@ -27,7 +27,7 @@ The Singularity Engine currently supports:
 Critical reports are automatically generated in a "Receipt" format and transmitted via the system's internal telemetry. No personal user data or Roblox account information is ever transmitted.
 
 ---
-**Developed for the Roblox Marketplace.** *Singularity Engine: Scratch, but better by millions.*
+**Developed for the Roblox Marketplace.** *Singularity Engine: "It's Scratch for Roblox, but better by millions."*
 
 
  
